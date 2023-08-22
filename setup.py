@@ -14,8 +14,8 @@ def get_requirements(filr_path:str)->List[str]:
 setup(
     name="DaimondPrice",
     version="0.0.1",
-    author="GangadharaRaviTeja",
-    author_email="gangadhararaviteja092003@gmail.com",
+    author="Dodda Sai Sachin",
+    author_email="doddasaisachin@gmail.com",
     install_requires=get_requirements("requirements.txt"),
     packages=find_packages()
 )
